@@ -1,5 +1,4 @@
-  ##10/18/2017 Sentiment Analysis Mini Project
-  
+ 
   #install the package
   
   pkg <- c("tm","wordcloud","readr", "dplyr", "tidytext", "ggplot2", "RColorBrewer", "sentimentr", "syuzhet",
