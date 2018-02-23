@@ -1,12 +1,4 @@
  
-  #install the package
-  
-  pkg <- c("tm","wordcloud","readr", "dplyr", "tidytext", "ggplot2", "RColorBrewer", "sentimentr", "syuzhet",
-  "shiny", 'DT', "shinythemes", "tidyr")
- 
-  install.packages("pkg")
-  
-
   #Load the package
   
   library(tm)
